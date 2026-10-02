@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision>=0.15
+librosa>=0.10
+soundfile>=0.12
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+fastapi>=0.100
+uvicorn>=0.23
+python-multipart
+kagglehub
